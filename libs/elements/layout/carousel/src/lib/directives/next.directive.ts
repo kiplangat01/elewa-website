@@ -12,4 +12,4 @@ export class NextDirective {
     const item = elm.getElementsByClassName("item");
     elm.append(item[0])
   }
-}
+} 
